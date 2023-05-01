@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(226, 71, 97);
+    color: wheat;
+    font-family: fantasy;
+    font-size: large;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 10px;
+}
+
+p1{
+    font-family: 'Times New Roman', Times, serif; 
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    font-size: larger;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid wheat;
+}
+
+.center{
+    text-align: center;
+    padding: 100px;
+}
+
+
+a{
+    color: wheat;
+    text-decoration: none   ;
+
+}
